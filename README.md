@@ -33,6 +33,16 @@ It computes magnitude and phase spectra on overlapping frames, keeps only the po
 | `mySpectrogram.m`           | Custom spectrogram function (magnitude & phase, positive frequencies only) |
 | `spectrogram_animation.gif` | (Optional) Short GIF showing the 3D spectrogram updating in real time |
 
+---
+
+## Animated Spectrogram Demo
+
+<p align="center">
+  <img src="spectrogram_3D_animation.gif" alt="Animated 3D Spectrogram Visualization" width="800">
+</p>
+
+_This animation shows the magnitude and phase spectrograms evolving across time and frequency — a visual look into frame-based STFT behavior._
+
 > If you don’t include the GIF yet, this table still works — you can add the file later and keep the same name.
 
 ---
