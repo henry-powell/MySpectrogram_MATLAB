@@ -111,7 +111,7 @@ _This animation shows the magnitude and phase spectrograms evolving across time 
 ## Engineering Relevance
 
 This project demonstrates real audio-DSP procedures used in industry:
-  -	Short-Time Fourier Transform (STFT)
+  -	Short-Time Fourier Transform (STFT) — frame-based FFT analysis over sliding windows
 	-	Frame windowing and hop-size logic
 	-	Magnitude vs. phase interpretation
 	-	Efficient storage of positive-frequency bins
